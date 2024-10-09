@@ -6,6 +6,9 @@ Created with:
 <li>pandas</li>
 <li>matplotlib</li>
 <li>scikit-learn</li>
+Libraries required:
+<li>pip install openpyxl</li>
+<li>pip install apyori</li>
 
 ### Assignment 1
 <li>Decision Tree Classifier</li>
